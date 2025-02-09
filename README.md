@@ -1,5 +1,10 @@
 <h1 align="center">Olá 👋, Me chamo Amós Felipe!</h1>
-<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas, ultimamente tenho buscado adquirir habilidades robustas em SQL, Python, Power BI e Excel para Análise de dados.</h3>
+<h3 align="center">Sou formado em Análise e Desenvolvimento de Sistemas e cursando MBA em Data Analysis e
+Business Intelligence. Possuo experiência sólida em atividades administrativas e suporte ao
+cliente, e estou focado no aprimoramento de habilidades técnicas para análise de dados.
+Tenho conhecimento em BI, Excel e SQL, com prática na criação de dashboards, relatórios e
+organização de dados para análise. Busco minha primeira oportunidade na área para aplicar
+minhas habilidades na interpretação de dados e otimização de processos empresariais</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
